@@ -1,4 +1,4 @@
-package hello;
+package de.ur.mi.hello;
 
 import de.ur.mi.bouncer.apps.BouncerApp;
 import de.ur.mi.bouncer.apps.BouncerLauncher;
